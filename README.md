@@ -38,18 +38,6 @@ The projects were implemented using Verilog, SystemVerilog, and UVM, with simula
 - Languages – Verilog, SystemVerilog, UVM
 - Methodology – RTL Design, Testbench Architecture, Functional Verification
 
-## How to Use This Repository
-
-1. Clone the Repository:
-   git clone https://github.com/Dhanapalgithub/K-VLSI.git
-
-2. Browse the Folders:
-   Each folder contains a PDF with descriptions, code snippets, and simulation links.
-   Open the files in any browser or PDF viewer to read the design and verification flow.
-
-3. Simulate the Designs:
-   For Digital System Design, import the Verilog code into Vivado and run synthesis/simulation.
-   For other projects, open embedded EDA Playground links and run the simulation directly online.
 
 ## Learning Highlights
 
