@@ -1,4 +1,4 @@
-# K‑VLSI Training Program – Hands‑On Projects Repository
+# K‑VLSI Training Program – Hands‑On Repository
 
 This repository contains all hands-on learning materials, project implementations, and simulation exercises completed during the K‑VLSI Front-End VLSI Training Program, focusing on RTL Design, Digital System Design, Verification, and Communication Protocols.
 
